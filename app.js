@@ -18,7 +18,7 @@ app.get("/", function(req, res){
 });
 
 app.get("/andreagift", function(req,res){
-  res.render("http://www.fitbit.com/zip/specs");
+  res.redirect("http://www.fitbit.com/zip/specs");
 });
 
 app.listen(port);
