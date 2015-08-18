@@ -1,5 +1,7 @@
 #*raiff.com
-Aaron and Amy's personal websites.
+Aaron and Amy's personal websites:
+* [aaronraiff.com](http://aaronraiff.com)
+* [amyraiff.com](http://amyraiff.com)
 
 Built on Node, Express, EJS, Bootstrap.
 
