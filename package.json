@@ -1,10 +1,10 @@
 {
-  "name": "stocks",
+  "name": "*raiff.com",
   "version": "0.0.1",
-  "description": "CS3300 project",
+  "description": "personal sites for my siblings",
   "dependencies": {
-    "express": "3.x",
-    "ejs":"*",
-    "yql":"*"   
+    "commander": "^2.8.1",
+    "ejs": "0.8.4",
+    "express": "3.4.0"
   }
 }

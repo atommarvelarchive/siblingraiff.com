@@ -1,0 +1,11 @@
+{
+    "name": "Aaron Raiff",
+    "email": "aaron.raiff@gmail.com",
+    "label": "Professional Chemist",
+    "aboutme": {
+        "lead": "I'm a chemist a Dow Chemical.",
+        "details": "I'm also studying data science and have a keen interest in entrepreneurial endeavors."
+    },
+    "linkedin": "http://www.linkedin.com/in/araiff",
+    "bg": "aaron.jpg"
+}

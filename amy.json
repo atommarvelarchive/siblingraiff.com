@@ -1,0 +1,10 @@
+{
+    "name": "Amy Raiff",
+    "email": "amyraiff@email.arizona.edu",
+    "label": "Speech Pathologist",
+    "aboutme": {
+        "lead": "I'm a speech pathology major at University of Arizona.",
+        "details": "I'm graduating in May 2019. I'm looking for internships."
+    },
+    "bg": "amy.jpg"
+}
